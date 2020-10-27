@@ -1,0 +1,20 @@
+{
+    "Author": "Gary Gallanes [MSFT]",
+    "ContentSize": 3733,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/asdk-config-powershell-&-set-adminstackadminuser-arm-endpoints/master/Set-AzSARM.ps1",
+    "DownloadCount": 816,
+    "Id": "AzureStack-Automate-setup-abaafbdd",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 251,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-5-16T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "ASDK\u00a0only!\u00a0Imports RM Modules 1.2.10 and AzureStack-Tools, Sets\u00a0AzureStackAdmin\u00a0&\u00a0AzureStackUser\u00a0ARM\u00a0Endpoints\u00a0&\u00a0add\u00a0AzureRmAccounts,\u00a0Register\u00a0RPs,\u00a0copy\u00a0registration\u00a0script\u00a0to\u00a0$PSHome\u00a0and\u00a0reset\u00a0PowerShell\u00a0Execution\u00a0Policy",
+    "Title": "ASDK: Config PowerShell & set AdminStackAdmin/User ARM Endpoints",
+    "UpdatedDate": "2018-9-11T00:00:00",
+    "Url": "https://github.com/azureautomation/asdk-config-powershell-&-set-adminstackadminuser-arm-endpoints",
+    "UserTags": "Powershell, Powershell Script, Windows PowerShell"
+}
